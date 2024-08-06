@@ -16,7 +16,7 @@ sometimes even reject it by itself (often due too many uses - in that case try t
 
 | Product                                                     | GVLK                            |
 | ----------------------------------------------------------- | ------------------------------- |
-| Windows Server 2019 Datacenter                              | `WMDGN-G9PQG-XVVXX-R3X43-63DFG` |
+| Windows Server 2019 Datacenter                              | `WMDGN-G6PQG-XVVXX-R3X60-54DFG` |
 | Windows Server 2019 Standard                                | `N69G4-B89J2-4G8F4-WWYCC-J464C` |
 | Windows Server 2019 Essentials                              | `WVDHN-86M7X-466P6-VHXV7-YY726` |
 | Windows Server 2019 Azure Core                              | `FDNH6-VW9RW-BXPJ7-4XTYG-239TB` |
